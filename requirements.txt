@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+redis
+transformers
+torch
+sentence-transformers
+langchain
+faiss-cpu
+deep-translator
+langdetect
+groq
+python-jose
+passlib[bcrypt]
